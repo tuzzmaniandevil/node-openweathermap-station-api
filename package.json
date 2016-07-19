@@ -1,0 +1,36 @@
+{
+  "name": "node-openweathermap-station-api",
+  "description": "A small abstraction layer for the openweathermap API",
+  "keywords": [
+    "weather",
+    "openweathermap",
+    "openweather",
+    "API",
+	"station"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Wesley Tuzza",
+    "email": "wesley@tuzza.co"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuzzmaniandevil/node-openweathermap-station-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tuzzmaniandevil/node-openweathermap-station-api/issues"
+  },
+  "main": "./openweather.js",
+  "homepage": "https://github.com/tuzzmaniandevil/node-openweathermap-station-api",
+
+  "engines": {
+    "node": ">=4.4.x"
+  },
+  "licenses": [
+    {
+      "type": "AGPLv3",
+      "url": "https://www.gnu.org/licenses/agpl-3.0.de.html"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
