@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/tuzzmaniandevil/node-openweathermap-station-api/issues"
   },
-  "main": "./openweather.js",
+  "main": "./index.js",
   "homepage": "https://github.com/tuzzmaniandevil/node-openweathermap-station-api",
 
   "engines": {
